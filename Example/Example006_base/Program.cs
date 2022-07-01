@@ -1,0 +1,12 @@
+﻿int a = 2;
+int b = 16;
+int c = 8;
+int d = 6;
+int i = 1;
+int max = 0;
+if (a>max) max=a;
+if (b>max) max=b;
+if (c>max) max=c;
+if (d>max) max=d;
+if (i>max) max=i;
+Console.WriteLine (max);
